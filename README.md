@@ -49,8 +49,3 @@ A simple command-line based Slot Machine game built using Python. This project s
 
 ---
 
-## ▶️ How to Run
-
-1. Clone the repository:
-```bash
-git clone https://github.com/your-username/python-project-collection.git
